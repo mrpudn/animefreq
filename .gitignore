@@ -1,0 +1,7 @@
+
+__pycache__
+*.pyc
+
+sandbox
+
+.DS_Store
